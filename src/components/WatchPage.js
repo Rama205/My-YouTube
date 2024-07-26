@@ -4,6 +4,7 @@ import { closeMenu } from '../utils/appSlice';
 import { useDispatch } from 'react-redux';
 import { useSearchParams } from 'react-router-dom';
 import CommentContainers from './CommentContainers';
+import LiveChat from './LiveChat';
 
 const WatchPage = () => {
 
@@ -28,9 +29,9 @@ const WatchPage = () => {
               allowFullScreen
             ></iframe>
           </div>
-          {/* <div className="w-full">
+          <div className="w-full">
             <LiveChat />
-          </div> */}
+          </div>
         </div>
         <CommentContainers />
       </div>
