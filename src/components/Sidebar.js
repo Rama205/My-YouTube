@@ -15,7 +15,7 @@ if(!isMenuOpen) return null;
      
       <ul>
       <li><Link to ="/">Home</Link></li>
-      <li>Shorts</li>
+      <li><Link to ="/demo">Demo</Link></li>
       <li>Live</li>
       <li>Vedios</li>
      </ul>
