@@ -1,3 +1,18 @@
+# My React Project
+This is a sample project built with React.
+
+## Getting Started
+Follow these steps to get the project up and running.
+
+## Technologies Used
+- React
+- JavaScript
+- CSS
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
