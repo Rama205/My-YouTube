@@ -7,7 +7,7 @@ Follow these steps to get the project up and running.
 ## Technologies Used
 - React
 - JavaScript
-- CSS
+- Tailwind
 
 
 
